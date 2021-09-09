@@ -3,6 +3,6 @@
 //代码打包zip
 const webpack = require('webpack');
 module.exports = {
-  publicPath: '/dist',
+  publicPath: './',
   outputDir: 'dist',
 }
