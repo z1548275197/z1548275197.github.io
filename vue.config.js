@@ -3,6 +3,6 @@
 //代码打包zip
 const webpack = require('webpack');
 module.exports = {
-  publicPath: '/vlog',
-  outputDir: 'build',
+  publicPath: './',
+  outputDir: 'dist',
 }
